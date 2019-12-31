@@ -1,4 +1,3 @@
-gestao_clientes/settings.py
 venv/
 .venv
 *.sqlite3
